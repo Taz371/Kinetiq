@@ -76,7 +76,7 @@ This mimics vector decomposition — just like solving mechanics problems on pap
 
 SCREENSHOTS
 -----------
-![Setup Screenshot](Screenshot1.png)
+![Setup Screenshot](Screenshot.png)
 ![After Launched Screenshot](Screenshot2.png)
 
 
