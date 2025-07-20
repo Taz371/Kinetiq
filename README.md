@@ -21,6 +21,8 @@ FEATURES
 - Dynamic Environment: Infinite-scrolling floor and background, auto zoom-out camera for long-range shots.
 - Quick Restart: Press 'R' anytime to reset and try again.
 
+![Demo of Kinetiq](ExampleAnim.gif)
+
 HOW TO USE
 ----------
 1. Clone the repo:
@@ -74,6 +76,9 @@ This mimics vector decomposition — just like solving mechanics problems on pap
 
 SCREENSHOTS
 -----------
+![Setup Screenshot](Screenshot1.png)
+![After Launched Screenshot](Screenshot2.png)
+
 
 BUILT WITH
 ----------
